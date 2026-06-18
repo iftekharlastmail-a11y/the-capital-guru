@@ -1,0 +1,6 @@
+{
+  "name": "The Capital Guru",
+  "description": "Trading discipline platform focused on risk management, journaling, and consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
